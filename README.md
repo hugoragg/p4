@@ -47,4 +47,5 @@ Para acceder a la consola:
 
 ## 📬 Autor
 
-Varinho // Ingeniería de Telecomunicaciones con Business Analytics  
+**Hugo Raggini**  
+Ingeniería de Telecomunicaciones con Business Analytics  
